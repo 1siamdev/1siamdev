@@ -4,7 +4,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=1SiamDev&fontSize=80&animation=fadeIn)
   
-  ### 💻 Full Stack Developer | 🌏 Based in Thailand | 🚀 Open Source Enthusiast
+  ### 🏢 ONE SIAMSOFT CO., LTD. | 💻 Software Development & IT Solutions | 🌏 Thailand
   
   [![GitHub followers](https://img.shields.io/github/followers/1siamdev?style=social)](https://github.com/1siamdev)
   [![GitHub stars](https://img.shields.io/github/stars/1siamdev?style=social)](https://github.com/1siamdev)
@@ -13,25 +13,27 @@
 
 ---
 
-## 🎯 About Me | เกี่ยวกับฉัน
+## 🎯 About | เกี่ยวกับเรา
+
+**บริษัท วัน สยามซอฟท์ จำกัด**  
+**ONE SIAMSOFT CO., LTD.**
 
 ```typescript
-const developer = {
-  name: "1SiamDev",
+const company = {
+  name: "ONE SIAMSOFT CO., LTD.",
   location: "Thailand 🇹🇭",
-  role: "Full Stack Developer",
-  languages: ["Thai", "English"],
-  interests: ["Web Development", "Open Source", "Automation", "Travel"],
-  currentFocus: "Building awesome projects with OpenClaw",
-  hobbies: ["Coding", "Skiing", "Traveling", "Learning new tech"]
+  business: "Software Development & IT Solutions",
+  services: ["Web Development", "Mobile Apps", "Enterprise Solutions", "Cloud Services"],
+  expertise: ["Full Stack Development", "API Integration", "System Automation", "DevOps"],
+  technologies: ["Go", "React", "Node.js", "Python", "Cloud Technologies"]
 };
 ```
 
-- 🔭 กำลังทำงานกับ **OpenClaw Assistant** และโปรเจกต์ต่างๆ
-- 🌱 กำลังเรียนรู้ **Go, React, Node.js, Cloud Technologies**
-- 👯 มองหาโอกาสร่วมงานในโปรเจกต์ Open Source
-- 💬 ถามได้เรื่อง **Web Development, API Integration, Automation**
-- ⚡ Fun fact: ชอบเล่นสกีที่ญี่ปุ่น! 🎿
+- 🏢 บริษัทพัฒนาซอฟต์แวร์และโซลูชั่นด้านไอทีครบวงจร
+- 💼 ให้บริการ **Web Development, Mobile Applications, Enterprise Systems**
+- 🌐 ครอบคลุมทั้ง **Frontend, Backend, Database, Cloud Infrastructure**
+- 🤝 มุ่งเน้นการทำงานร่วมกับลูกค้าเพื่อสร้างโซลูชั่นที่ตอบโจทย์ธุรกิจ
+- 📈 ประสบการณ์ในการพัฒนาระบบ Enterprise และ Startup Solutions
 
 ---
 
@@ -86,21 +88,21 @@ const developer = {
 ## 🌟 Recent Activity | กิจกรรมล่าสุด
 
 <!--START_SECTION:activity-->
-1. 🎉 สร้าง GitHub Profile README
-2. 🚀 เริ่มโปรเจกต์กับ OpenClaw Assistant
-3. 🌏 วางแผนเที่ยวญี่ปุ่น (Hakuba - Snow activities)
-4. 💻 พัฒนาเว็บไซต์ตัวอย่าง
+1. 🏢 จัดตั้ง GitHub Organization สำหรับบริษัท
+2. 🚀 พัฒนาโซลูชั่น Automation ด้วย OpenClaw
+3. 💼 สร้าง Portfolio โปรเจกต์สำหรับลูกค้า
+4. 🌐 พัฒนา Web Applications และ APIs
 <!--END_SECTION:activity-->
 
 ---
 
-## 🎯 Goals for 2026 | เป้าหมายปีนี้
+## 🎯 Business Goals 2026 | เป้าหมายธุรกิจปีนี้
 
-- [ ] สร้างโปรเจกต์ Open Source 10+ โปรเจกต์
-- [ ] เรียนรู้ Cloud Technologies (AWS/Azure)
-- [ ] Contribute to 5+ Open Source projects
-- [ ] เขียนบทความ Technical Blog
-- [x] สร้าง GitHub Profile สวยงาม ✅
+- [ ] พัฒนาโซลูชั่น Enterprise 10+ โปรเจกต์
+- [ ] รับรองมาตรฐาน Cloud Technologies (AWS/Azure/GCP)
+- [ ] ขยายฐานลูกค้า 5+ บริษัทชั้นนำ
+- [ ] พัฒนาทีม Developer และ DevOps
+- [x] สร้าง Corporate GitHub Profile ✅
 
 ---
 
