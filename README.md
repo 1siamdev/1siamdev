@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=1SiamDev&fontSize=80&animation=fadeIn)
-  
   ### 🏢 ONE SIAMSOFT CO., LTD. | 💻 Software Development & IT Solutions | 🌏 Thailand
   
   [![GitHub followers](https://img.shields.io/github/followers/1siamdev?style=social)](https://github.com/1siamdev)
@@ -77,10 +75,6 @@ const company = {
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1siamdev&show_icons=true&theme=radical&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1siamdev&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1siamdev&theme=radical&hide_border=true)
-  
 </div>
 
 ---
@@ -121,14 +115,6 @@ const company = {
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 **Thanks for visiting! | ขอบคุณที่แวะมาเยี่ยมชม!** 🙏
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1siamdev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
