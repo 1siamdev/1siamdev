@@ -69,16 +69,6 @@ const company = {
 
 ---
 
-## 📊 GitHub Stats | สถิติ
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1siamdev&show_icons=true&theme=radical&hide_border=true)
-  
-</div>
-
----
-
 ## 🌟 Recent Activity | กิจกรรมล่าสุด
 
 <!--START_SECTION:activity-->
