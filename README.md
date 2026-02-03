@@ -83,29 +83,6 @@ const developer = {
 
 ---
 
-## 🚀 Featured Projects | โปรเจกต์เด่น
-
-<div align="center">
-
-### 🌐 [Demo Website](https://github.com/1siamdev/demo-website)
-เว็บไซต์ตัวอย่างสวยงาม พร้อม Responsive Design
-- **Tech:** HTML5, CSS3, JavaScript
-- **Features:** Modern UI, Animations, Mobile-friendly
-
-### 🎲 [Go Random Generator](https://github.com/1siamdev/go-random)
-โปรแกรมสร้างตัวเลขและข้อมูลสุ่มด้วย Go
-- **Tech:** Go (Golang)
-- **Features:** Cryptographically secure, CLI tool, Multiple formats
-
-### 📋 [Trello Integration](https://github.com/1siamdev/trello-integration)
-Skill สำหรับเชื่อมต่อกับ Trello API
-- **Tech:** Python, REST API
-- **Features:** Board management, Card operations, Batch processing
-
-</div>
-
----
-
 ## 🌟 Recent Activity | กิจกรรมล่าสุด
 
 <!--START_SECTION:activity-->
